@@ -1,0 +1,114 @@
+body {
+
+   
+    /*коментар*/
+  
+    background-color: #2C5F2D;
+    
+    width: 1000px;
+
+    margin: auto;
+}
+
+header {
+    background-color: #97BC62FF;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    vertical-align: middle;
+
+    top: 0;
+    left: 0;
+    right: 0;
+}
+ 
+
+
+#portrait img{
+   height: 400px;
+    width: 350px;
+    
+}
+
+footer {
+    background-color: #97BC62FF;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    vertical-align: middle;
+
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+h1 {
+    font-family: "Papyrus", fantasy;
+    font-size: 40px;
+    font-weight: bold;
+    color: #2C5F2D;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Papyrus", fantasy;
+    font-size: 25px;
+    font-weight: bold;
+    color: #2C5F2D;
+    text-align: center;
+}
+
+
+h6 {
+    font-family: "Papyrus", fantasy;
+    font-size: 20px;
+    font-weight: bold;
+    color: #2C5F2D;
+    margin-top: 5px;
+    text-align: center;
+}
+li{
+    
+     font-family: "Verdana", fantasy;
+    font-size: 25px;
+    
+    
+}
+#artistDesc{
+    
+     font-family: "Verdana", monospace;
+    font-size: 15px;
+    font-weight: 400;
+    
+    
+}
+
+.grid1 img, .grid2 img{
+    
+    height: 200px;
+    width: 250px;
+    
+}
+
+
+.grid3 img{
+    
+    height: 450px;
+    width: 300px;
+    
+}
+
+.grid4 img{
+    
+    height: 250px;
+    width: 500px;
+    
+}
+.gridParent{
+    
+   padding-bottom: 100px;
+    
+}
